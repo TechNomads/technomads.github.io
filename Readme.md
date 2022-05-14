@@ -1,6 +1,6 @@
 # TedX website
 
-Static promotial website for our TedX mobile applications. This is old project.
+Static promotion website for our TedX mobile applications. This is old project.
 Main purpose were introduce the apps, sell the apps and inform about the
 features and how to login to the administration.
 
